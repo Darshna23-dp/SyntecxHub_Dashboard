@@ -119,6 +119,7 @@ The dashboard uses a **12-column grid system**, modular card layouts, and realis
 - Date-range change updates KPIs and charts
 - Department filter refines analytics
 - Clicking chart elements opens detailed views
+- Link :  
 
 ---
 
@@ -148,5 +149,5 @@ This project is created for **portfolio and educational purposes**.
 
 ## 🙌 Author
 
-Designed by **[Your Name]**  
+Designed by **[Darshana Dhankecha]**  
 UI/UX Designer | B2B & SaaS Product Design
