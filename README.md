@@ -119,7 +119,7 @@ The dashboard uses a **12-column grid system**, modular card layouts, and realis
 - Date-range change updates KPIs and charts
 - Department filter refines analytics
 - Clicking chart elements opens detailed views
-- Link :  
+- Link :  https://www.figma.com/design/M3v4QdSIoyGmE3hB1WGJ17/ExecFlow-?node-id=0-1&t=zl7mpgTQHKYEeqxB-1
 
 ---
 
